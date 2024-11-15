@@ -17,4 +17,11 @@ This is a responsive website for car sales, providing users with features to vie
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ndyudev/Card-FE.git
+
+## Open index.html in your preferred browser to view the website.
+- About the Developer
+- Created by nDyu Dev, a full-stack developer passionate about building interactive and user-friendly web applications.
+
+License
+This project is open-source and available under the MIT License.
